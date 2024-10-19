@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://yellowstaronsky.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://yellowstaronsky.github.io/"/>
+  <updated>2024-10-18T16:37:20.551Z</updated>
+  <id>https://yellowstaronsky.github.io/</id>
+  
+  <author>
+    <name>YellowStar</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>begin</title>
+    <link href="https://yellowstaronsky.github.io/2024/10/19/begin/"/>
+    <id>https://yellowstaronsky.github.io/2024/10/19/begin/</id>
+    <published>2024-10-18T16:37:20.000Z</published>
+    <updated>2024-10-18T16:37:20.551Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
